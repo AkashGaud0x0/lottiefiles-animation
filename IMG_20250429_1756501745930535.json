@@ -1,0 +1,138 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/IMG_20250429_175650.jpg",
+    "format": "json",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 2328,
+      "height": 2208,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 5140224,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 72.1596,
+        "standardDeviation": 87.1998,
+        "kurtosis": -0.222399,
+        "skewness": 1.22116,
+        "entropy": 0.497228
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 254,
+        "mean": 45.5551,
+        "standardDeviation": 83.8435,
+        "kurtosis": 1.57009,
+        "skewness": 1.81003,
+        "entropy": 0.477039
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 55.8361,
+        "standardDeviation": 84.1423,
+        "kurtosis": 0.81998,
+        "skewness": 1.58252,
+        "entropy": 0.512258
+      },
+      "blue": {
+        "min": 13,
+        "max": 255,
+        "mean": 115.087,
+        "standardDeviation": 93.6137,
+        "kurtosis": -1.42601,
+        "skewness": 0.751821,
+        "entropy": 0.502385
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "matteColor": "#BDBDBD",
+    "transparentColor": "#000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 2328,
+      "height": 2208,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 100,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-04-29T12:42:13+00:00",
+      "date:modify": "2025-04-29T12:42:13+00:00",
+      "exif:ExifOffset": "90",
+      "exif:ImageLength": "2208",
+      "exif:ImageWidth": "2328",
+      "exif:LightSource": "0",
+      "exif:MakerNote": null,
+      "exif:Software": "Android Gallery",
+      "exif:UserComment": null,
+      "icc:copyright": "Google Inc. 2016",
+      "icc:description": "Display P3 Gamut with sRGB Transfer",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "f4f1448dceb97b952bc6cc3bdb9afdc2931e411430c9dfcc0e00feb752a65736"
+    },
+    "profiles": {
+      "exif": {
+        "length": 208
+      },
+      "icc": {
+        "length": 520
+      }
+    },
+    "tainted": false,
+    "filesize": "794480B",
+    "numberPixels": "5.14022M",
+    "pixelsPerSecond": "135.063MB",
+    "userTime": "0.030u",
+    "elapsedTime": "0:01.038",
+    "version": "ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org"
+  }
+}
+]
