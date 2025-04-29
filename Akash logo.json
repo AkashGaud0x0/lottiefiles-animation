@@ -1,0 +1,190 @@
+{
+  "account_number": null,
+  "accounting_entry_type": "debit",
+  "balance": null,
+  "barcodes": [],
+  "bill_to": {
+    "address": null,
+    "email": null,
+    "name": null,
+    "parsed_address": null,
+    "phone_number": null,
+    "reg_number": null,
+    "vat_number": null
+  },
+  "cashback": null,
+  "category": null,
+  "country_code": null,
+  "created_date": "2025-04-29 12:28:09",
+  "currency_code": "USD",
+  "custom_fields": {},
+  "date": "2025-04-29 12:28:08",
+  "default_category": null,
+  "delivery_date": null,
+  "delivery_note_number": null,
+  "discount": null,
+  "document_reference_number": null,
+  "document_title": null,
+  "document_type": null,
+  "due_date": null,
+  "duplicate_of": null,
+  "exch_rate": 1,
+  "external_id": null,
+  "final_balance": null,
+  "guest_count": null,
+  "id": 307075062,
+  "img_blur": false,
+  "img_file_name": "307075062.jpg",
+  "img_thumbnail_url": "https://scdn.veryfi.com/receipts/a97b60d6266cfadf/1bf3d050-520f-401b-9b71-6ed7ed2cf690/thumbnail.jpg?Expires=1745933290&Signature=HOp3J~0SdLXaFOpnIzTeTW1PqRzdvYn-MRQ-endXLbs-n~WLnmLiR6OdRde9umdP8Rtrx5H-oVnZNaOzMuWTV1RI0mlnPuB6s4FzFEhBqG9FHHZ~He05FNw0E1DdeBLIriHcLpaebpqUvoVCLTR1tpUKPxXON9uCut6ejbVnzuFvZycBm0QEFue253lmwujRhN4JJpKZnc065wiWINC9Gik58CY2Cknus8Dj5UY7B-X7oe3wHfQST7iRt0fPRJUbfbaecQ0rafr57e521pKKlwD3IsYZtRSlig0zBQ0om06~kL6nr16RLsX1P48C0AGTI0sVu2wCVhYvTX5HM4JLzQ__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+  "img_url": "https://scdn.veryfi.com/receipts/a97b60d6266cfadf/1bf3d050-520f-401b-9b71-6ed7ed2cf690/be830019-92f1-484b-8a4e-a141c11c52f5.jpg?Expires=1745933290&Signature=GquYTQ~r~MdE7Tx8OwDfjt-PxIogEdBuFWd64-PmsLVVIC5HnXp9y6BrRzUuMcNRUwrqxFy1pNKj4~DGJyalAGMR523vvoyEzUP6YWI-IVtFvPfIg2uwsvUNZ7AOicfSlKMQcB-UogE5oAlAZs0s8i31d4suVTCRjltCJS0J6OG24OnUhgDJZDwjHfO7oGwtIk2nZE9jMKKqz5vubFKo2yA~95ukd4yBPDQD2o5Pyf8NNoqxZpjrS-BdPYq~XDy~B7la-Uvxs9SaYvJBmX6CVFGwal9lia24Xru2hiOcoFS7e~Ym4SEaIAphKY-1DgYLyv82cdUp4XSsrZKHXV55cg__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+  "incoterms": null,
+  "insurance": null,
+  "invoice_number": null,
+  "is_approved": false,
+  "is_blurry": [
+    false
+  ],
+  "is_document": false,
+  "is_duplicate": false,
+  "is_money_in": null,
+  "license_plate_number": null,
+  "line_items": [],
+  "meta": {
+    "fraud": {
+      "attribution": null,
+      "color": "green",
+      "decision": "Not Fraud",
+      "fraudulent_pdf": {
+        "score": 0
+      },
+      "images": [
+        {
+          "is_lcd": false,
+          "score": 0.83
+        }
+      ],
+      "pages": [
+        {
+          "is_lcd": {
+            "score": 0.83,
+            "value": false
+          }
+        }
+      ],
+      "score": 0.17,
+      "submissions": {},
+      "types": [],
+      "version": null
+    },
+    "fraud_review": {
+      "decision": null,
+      "types": []
+    },
+    "language": [],
+    "ocr_score": null,
+    "owner": "api_demo",
+    "pages": [
+      {
+        "height": 2208,
+        "is_blurry": {
+          "score": 0.52,
+          "value": false
+        },
+        "language": [],
+        "screenshot": {
+          "score": 0.39,
+          "type": null
+        },
+        "width": 2328
+      }
+    ],
+    "processed_pages": 1,
+    "source": "api",
+    "source_documents": [
+      {
+        "exif": {
+          "ImageHeight": 2208,
+          "ImageSize": "2328 2208",
+          "ImageWidth": 2328,
+          "JFIFVersion": "1 1",
+          "LightSource": 0,
+          "MakerNote": "",
+          "Megapixels": 5.140224,
+          "Orientation": 0,
+          "ResolutionUnit": 0,
+          "Software": "Android Gallery",
+          "UserComment": "",
+          "XResolution": 1,
+          "YResolution": 1
+        },
+        "height": 2208,
+        "size_kb": 776,
+        "width": 2328
+      }
+    ],
+    "total_pages": 1,
+    "warnings": []
+  },
+  "notes": null,
+  "order_date": null,
+  "payment": {
+    "card_number": null,
+    "display_name": null,
+    "terms": null,
+    "type": null
+  },
+  "payment_links": [],
+  "pdf_url": "https://scdn.veryfi.com/receipts/a97b60d6266cfadf/1bf3d050-520f-401b-9b71-6ed7ed2cf690/49bd3e20-2429-48b4-84e7-a35def8c4676.pdf?Expires=1745933290&Signature=PV1VOYiaevL0DQhULf2Fn7wnovmjj-mYYrUixeahPxFlnYFh9-JVr5T~a8ftaczCspuYRISdgMNrXDhxDaTAFghadfjR9lGUts5vX6EZ2IWpkGYPlPBaSTXOVcxk~SUhdPxlXEevya~eETgcGhtyx-2JUY05jEmYCAhlvDnfTU1dsLZ7dx6nms9lPtlwTyG25wubzYuoA5E8yOXyJDeV0pkAVl-a-LNhOuOsRpQYUI9tshRzAicIfYgqeCLJX8KAW1Zup-KVjJwvpbrShxf-3xFJ9h9-b79~cm-vUFxIJye7~esrLjH3-AW8i~xejvtgiEg4sVWDnQYZs6NaiuqBtw__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+  "purchase_order_number": null,
+  "reference_number": "VCIJA-75062",
+  "rounding": null,
+  "service_end_date": null,
+  "service_start_date": null,
+  "ship_date": null,
+  "ship_to": {
+    "address": null,
+    "name": null,
+    "parsed_address": null
+  },
+  "shipping": null,
+  "store_number": null,
+  "subtotal": null,
+  "tags": [],
+  "tax": null,
+  "tax_lines": [],
+  "tip": null,
+  "total": null,
+  "total_quantity": null,
+  "total_weight": null,
+  "tracking_number": null,
+  "updated_date": "2025-04-29 12:28:10",
+  "vending_person": null,
+  "vending_person_number": null,
+  "vendor": {
+    "abn_number": null,
+    "account_number": null,
+    "address": null,
+    "bank_name": null,
+    "bank_number": null,
+    "bank_swift": null,
+    "category": null,
+    "country_code": null,
+    "email": null,
+    "fax_number": null,
+    "iban": null,
+    "lat": null,
+    "lng": null,
+    "logo": null,
+    "map_url": null,
+    "name": null,
+    "parsed_address": {},
+    "phone_number": null,
+    "raw_address": null,
+    "raw_name": null,
+    "reg_number": null,
+    "type": null,
+    "vat_number": null,
+    "web": null
+  },
+  "vendors": []
+}
